@@ -1,4 +1,4 @@
-## Basic OS Algorithms ##
+## Verilog Programs ##
 
 This repository consists of code implementations, that i have done from scratch consisting of **Verilog programs** from course-work in **Netaji Subhas Institute Of Technology (NSIT), Delhi University**.
 
